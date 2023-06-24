@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/FjGEQSybauJqM/giphy.gif"/> 
+</div>
 <!--
 **safa1904/safa1904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
