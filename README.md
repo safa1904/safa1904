@@ -23,7 +23,7 @@
  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Canada.
  - :woman_student: I'm an undergraduate student Computer Science Major and Math Minor at MacEwan University.
  - :seedling: Exploring Technical Content Writing.
- - :zap: In my free time, I solve problems on code kata, learn new skills, and watch anime.
+ - :zap: In my free time, I solve some code problems , learn new skills, and watch anime.
    
 ---
 
