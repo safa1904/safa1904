@@ -13,11 +13,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
    Hi there! I'm Saphia Mohamed
 </h1>
-<div align="center">
-  <img src="https://media.giphy.com/media/GYtblmdLnemlO/giphy.gif" width="600" height="300"/>
-</div>
-
----
 
  ### :woman_technologist: About Me :
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
